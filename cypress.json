@@ -4,6 +4,8 @@
   "ignoreTestFiles": ["*snapshots.js", "*mock.js"],
   "chromeWebSecurity": false,
   "watchForFileChanges": false,
+  "failOnStatusCode": true,
+  "experimentalSessionSupport": true,
   "viewportWidth": 1280,
   "viewportHeight": 720
 }
