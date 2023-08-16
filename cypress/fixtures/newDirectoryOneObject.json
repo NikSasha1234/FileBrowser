@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "path": "/newDirectory/mohova",
+      "name": "mohova",
+      "size": 6,
+      "extension": "",
+      "modified": "2023-08-15T06:57:55.531041513Z",
+      "mode": 493,
+      "isDir": false,
+      "isSymlink": false,
+      "type": "text"
+    }
+  ],
+  "numDirs": 0,
+  "numFiles": 1,
+  "sorting": {
+    "by": "name",
+    "asc": false
+  },
+  "path": "/newDirectory/",
+  "name": "newDirectory",
+  "size": 4096,
+  "extension": "",
+  "modified": "2023-08-15T06:57:55.531041513Z",
+  "mode": 2147484141,
+  "isDir": true,
+  "isSymlink": false,
+  "type": ""
+}

@@ -29,8 +29,6 @@ context('Авторизация', function () {
         // проверка редиректа на страницу профиля
         cy.url().should('contain', '/files/')
 
-        // выход из профиля
-        cy.logout()
     })
 
 
@@ -98,7 +96,5 @@ context('Авторизация', function () {
         // проверка, что создалась кука с токеном
         cy.getCookie('auth').should('exist')
 
-        // выход из профиля
-        cy.logout()
     })
    })
